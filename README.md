@@ -9,7 +9,7 @@ I'm a TS/React/Node engineer.
 | Generally | Interested in any project with a social impact |
 | Writing | [morganatwork.com](https://www.morganatwork.com) |
 
-And check out the open source libraries I'm contributing 👇 (my pinned repos).
+And check out the open source libraries I'm contributing to 👇 (my pinned repos).
 <!--
 **morgs32/morgs32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

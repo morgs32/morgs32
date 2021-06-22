@@ -1,5 +1,3 @@
-- Just finished a new animation library, [react-spring-flip](https://github.com/stackshirts/react-spring-flip)
 - Experimenting with ideas at [www.stackshirts.com](https://www.stackshirts.com)
-- Interested in any project with some social value
 - Writing things down at [morganatwork.com](https://www.morganatwork.com)
-- Other libraries below 👇 (my pinned repos).
+- Some experimental OSS below 👇
